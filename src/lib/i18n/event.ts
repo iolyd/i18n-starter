@@ -9,7 +9,7 @@ import { isLanguageTag } from './validation';
 export function getEventLanguageTag<E extends RequestEvent | ServerLoadEvent | LoadEvent>(
 	event: E
 ) {
-	const param = event.params['lang'];
+	const param = event.params.lang;
 	if (param && isLanguageTag(param)) {
 		return param;
 	}
