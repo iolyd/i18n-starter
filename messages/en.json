@@ -1,3 +1,8 @@
 {
-	"helloWorld": "Hello world"
+	"languageName": "English",
+	"helloWorld": "Hello world",
+	"body": "You can even profit from keyed blocks to get a granular control on your transitions! With the keyed block inside the element tags, this should only transition once, whereas the title above transitions on every language switch.",
+	"home": "Home",
+	"langAgnostic": "Language agnostic",
+	"langSpecific": "Language specific"
 }

@@ -1,3 +1,8 @@
 {
-	"helloWorld": "Hola mundo"
+	"languageName": "Español",
+	"helloWorld": "Hola mundo",
+	"body": "¡También puedes aprovechar los bloques con llave para controlar granularmente tus transiciones!",
+	"home": "Inicio",
+	"langAgnostic": "Agnóstico de la lengua",
+	"langSpecific": "Específico de la lengua"
 }

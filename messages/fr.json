@@ -1,4 +1,8 @@
 {
 	"languageName": "Français",
-	"helloWorld": "Bonjour monde"
+	"helloWorld": "Bonjour monde",
+	"body": "Vous pouvez même mettre à profit les keyed blocks pour un contrôle granulaire de vos transitions!",
+	"home": "Accueil",
+	"langAgnostic": "Agnostique de la langue",
+	"langSpecific": "Spécifique à la langue"
 }
